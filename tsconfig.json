@@ -1,5 +1,6 @@
 {
   "compileOnSave": false,
+  "exclude": ["**/*.wasm"],
   "compilerOptions": {
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
